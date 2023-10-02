@@ -1,0 +1,125 @@
+.competition-card{
+  margin: 132px 30px 150px;
+  padding: 45px 40px 20px 30px;
+  object-fit: contain;
+  border-radius: 8px;
+  border: solid 1px rgba(30, 40, 117, 0.25);
+}
+.competition-card .title{
+    font-family: Gravity;
+  font-size: 45px;
+  font-weight: bold;
+  line-height: 1.13;
+  color: #e31837;
+}
+.competition-card-body .text-title{
+    margin-bottom: 20px;
+    font-family: Gravity;
+    font-size: 28px;
+    font-weight: bold;  
+    color: #071050;
+}
+.competition-card-body .text-body{
+   
+    font-family: Gravity;
+    font-size: 24px;
+    color: #1c1c1c;
+}
+.competition-card .competition-card-body  .second-p  p{
+    margin: 50px;
+    font-family: Gravity;
+    font-size: 24px;
+    color: #1c1c1c;
+}
+#dropdown  img{
+    width: 100px;
+    height: 100px;
+}
+.text-card{
+    margin: 150px 50px;
+    padding: 20px 56px 56px;
+    object-fit: contain;
+    border-radius: 12px;
+    box-shadow: -1px 4px 15px 0 rgba(0, 0, 0, 0.1);
+    background-color: var(--white);
+}
+.info-card-body{
+    border-radius: 12px;
+    box-shadow: -1px 4px 15px 0 rgba(0, 0, 0, 0.1);
+    background-color: var(--white);
+}
+.info-card-body img{
+    width: 70px;
+    height: 70px;
+}
+.text-card .title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  font-family: Gravity;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 2.28;
+  color: #151719;
+}
+.Yeniliki-Yazlmlar {
+    width: 1228px;
+    height: 463px;
+    margin: 18px 0 0;
+    font-family: Gravity;
+    font-size: 22px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.45;
+    letter-spacing: normal;
+    color: #151719;
+  }
+  .Yeniliki-Yazlmlar .text-style-1 {
+    font-weight: bold;
+    color: #e31b37;
+  }
+  .Yeniliki-Yazlmlar .text-style-2 {
+    font-weight: bold;
+    color: #f7253a;
+  }
+  .sub-title span{
+    margin: 0px 125px 15px 50px;
+    font-family: Gravity;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #151719;
+  }
+  body > div:nth-child(8) > div.text-body.d-flex.align-items-center.justify-content-lg-center.col-xl-12 > div > div > div > span{
+      margin: 0px;
+      text-align: start;
+  }
+  body > div:nth-child(6) > div.text-body.d-flex.align-items-center.justify-content-lg-center > span {
+    font-family: Gravity;
+    font-size: 32px;
+    color: #071050;
+  }
+  .body .sub-title{
+    font-family: Gravity;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: #151719;
+  }
+  .info-card-body .title  span{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    font-family: Gravity;
+    font-size: 48px;
+    font-weight: bold;
+    color: var(--white);
+  }
+  .info-card-body .body p{
+    font-family: Gravity;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+    color: #151719;
+  }

@@ -1,0 +1,89 @@
+@media (min-width: 200px) and (max-width: 768px) {
+    .activtyRes {
+        flex-direction: column;
+    }
+    .activity-title{
+        font-size: 22px !important;
+        padding-top: 20px !important;
+        padding-bottom: 10px !important;
+    }
+    .activity-description{
+        font-size: 9px !important;
+    }
+    .activity-continue{
+        font-size: 12px !important;
+    }
+    .activity-continue-arrow{
+        margin-top: 5px;
+        width: 15px !important;
+        height: 10px !important;
+    }
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .activtyRes {
+        flex-direction: column;
+    }
+    .activity-title{
+        font-size: 26px !important;
+        padding-top: 20px !important;
+        padding-bottom: 10px !important;
+    }
+    .activity-description{
+        font-size: 12px !important;
+    }
+}
+
+
+#activity{
+margin-bottom: 100px;
+}
+.activity-title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 2.28;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #071050;
+}
+.robot-div{
+    background-image: url("./image/robot/robot.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #6a1a21;
+}
+.game-div{
+    background-image: url("./image/game/game.png");
+    background-repeat: no-repeat;
+}
+.activity-div{
+    border-radius: 4px;
+    box-shadow: 0 32px 64px 0 rgba(140, 136, 150, 0.3);
+    background-color: #fff;
+}
+.image-description{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: -63px;
+    color: #17029a;
+    text-align: left;
+}
+.activity-description{
+    margin: 10px 45px 18px 0;
+    font-size: 14px;
+    text-align: left;
+}
+.activity-continue{
+    margin-right: 10px;
+    font-size: 15px;
+    color: black;
+}
+.activity-continue-arrow{
+    margin-top: 5px;
+    width: 20px;
+    height: 15px;
+}
